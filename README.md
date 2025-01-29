@@ -10,17 +10,6 @@ https://github.com/user-attachments/assets/986a6f3c-07e8-4f80-9b9f-aac13f7bc6ba
 
 **Samofajnochodzik** is a Bluetooth-controlled toy car project built by repurposing and modifying a discarded remote-controlled car. The goal was to create a technically precise, efficient, and fully functional car that can be controlled via a dedicated mobile application on Android devices. Instead of replacing batteries, the car can be conveniently charged from a standard wall socket. This project focuses on mechanical construction, electronics, and programming using an Arduino Uno and the C language.
 
-## Project Goals
-
-- **Learn Electronics**: Understand how electronic components work and how to read electrical circuit diagrams.
-- **Develop Technical Skills**: Enhance technical abilities through hands-on experience.
-- **Foster Creativity and Planning**: Design and implement modifications creatively.
-- **Understand Remote Control Technology**: Gain insight into remote control systems.
-
-## Project Aim
-
-The project aims to establish a foundation for further technological developments, including the Internet of Things (IoT). With a stable connection to a smartphone and the ability to monitor parameters, the car can be extensively modified by adding features like cameras, gesture control, autopilot, and threat detection. This project serves educational purposes, teaching step-by-step problem-solving and providing practical experience in automation and remote control systems.
-
 ## Functional Requirements
 
 - **Responsive Control**: Allows precise and responsive control via a mobile application on Android devices.
@@ -161,34 +150,10 @@ Extensive testing was conducted:
 - **Component Testing**: Tested voltage regulators, power supplies, and wires for reliability and safety.
 - **Code Testing**: Multiple iterations of code testing and debugging.
 
-## Results and Discussion
-
-The project was successfully completed with all goals achieved.
-
-- **Functionality**: The car responds correctly to control commands from the Android app.
-- **Learning Outcomes**: Gained valuable skills in electronics, programming, and problem-solving.
-
-### Challenges Overcome
-
-- **Bluetooth Communication**: Resolved communication issues by using the XM-15B module.
-- **Power Supply Modification**: Adjusted the power supply and charging setup to match BMS and battery requirements.
-- **Safety Concerns**: Ensured safe operation despite initial setbacks like component overheating.
-
-### Known Issues
-
-- **Relay LEDs**: LEDs on the relay module glow faintly in the HIGH state; this does not affect functionality.
-- **Aesthetic Considerations**: Missing a battery compartment cover due to lack of a 3D printer; cells are secure, but the underside appearance could be improved.
-
 ## Future Improvements
 
 - **Custom Mobile Application**: Develop a dedicated Android app with a user-friendly interface and additional features.
-- **Aesthetic Enhancements**: Improve the car's appearance, possibly adding LED lights or custom bodywork.
 - **Additional Features**: Incorporate functionalities like camera streaming, gesture control, or autonomous driving modes.
-- **Battery Compartment Cover**: Create a custom cover, potentially through 3D printing.
-
-## Conclusion
-
-The **Samofajnochodzik** project resulted in a fully functional Bluetooth-controlled car. Despite numerous challenges and working independently, the project was completed successfully. The experience provided invaluable learning opportunities in electronics, programming, and project management. This project serves as a strong foundation for future explorations in remote control systems and IoT technologies.
 
 ## Acknowledgments
 
